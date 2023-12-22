@@ -1,0 +1,11 @@
+/images
+/final_images
+/final_data
+/enlightened_data
+.env
+*.jpg
+*.json
+*.xml
+*.txt
+*.zip
+/runs
