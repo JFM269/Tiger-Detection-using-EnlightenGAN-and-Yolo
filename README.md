@@ -45,7 +45,7 @@ YOLOv8 (Low Illumination)             |  EnlightenGAN + YOLOv8 (Enhanced Illumin
 
 ## Conference Paper Link and Citation
 ```
-Link : https://arxiv.org/abs/2311.17552
+- Preprint Link : https://arxiv.org/abs/2311.17552
 
 @article{pendharkar2023efficient,
   title={An Efficient Illumination Invariant Tiger Detection Framework for Wildlife Surveillance},
