@@ -43,11 +43,9 @@ YOLOv8 (Low Illumination)             |  EnlightenGAN + YOLOv8 (Enhanced Illumin
 
 - The results of the training and validation are available in my teammate's wandb account <a href="https://wandb.ai/gauravpendharkar/YOLOv8/">here</a>.
 
-## Conference Paper Link and Citation
+## Conference Paper Link 
 Preprint Link : <a href="https://arxiv.org/abs/2311.17552">https://arxiv.org/abs/2311.17552</a>
-```
-Pendharkar, G., Micheal, A. A., Misquitta, J., & Kaippada, R. (2023). An Efficient Illumination Invariant Tiger Detection Framework for Wildlife Surveillance. arXiv preprint arXiv:2311.17552.
-```
+
 
 ## Referenced GitHub Repositories
 - <a href="https://github.com/arsenyinfo/EnlightenGAN-inference">EnlightenGAN Inference</a>
