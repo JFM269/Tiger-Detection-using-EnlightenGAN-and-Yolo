@@ -41,7 +41,7 @@ YOLOv8 (Low Illumination)             |  EnlightenGAN + YOLOv8 (Enhanced Illumin
 :-------------------------:|:-------------------------:
 ![](https://github.com/Gaurav0502/tiger-detection-using-enlightengan-and-yolo/blob/main/data/results/low_illumination.png)  |  ![](https://github.com/Gaurav0502/tiger-detection-using-enlightengan-and-yolo/blob/main/data/results/illuminated.png)
 
-- The results of the training and validation are available in wandb <a href="https://wandb.ai/gauravpendharkar/YOLOv8/">here</a>.
+- The results of the training and validation are available in my teammate's wandb account <a href="https://wandb.ai/gauravpendharkar/YOLOv8/">here</a>.
 
 ## Conference Paper Citation
 ```
